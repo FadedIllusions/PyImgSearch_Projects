@@ -1,3 +1,11 @@
+This project is from Adrian Rosebrock's blog post "Super Fast Color Transfer Between Images" on his website
+(https://www.pyimagesearch.com/2014/06/30/super-fast-color-transfer-images/). His code can be found on his
+GitHub: https://github.com/jrosebr1/color_transfer .
+
+*********************************************************************************************************
+*********************************************************************************************************
+*********************************************************************************************************
+
 Super fast color transfer between images
 ==============
 
